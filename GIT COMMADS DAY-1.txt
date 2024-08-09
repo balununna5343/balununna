@@ -1,0 +1,12 @@
+
+
+
+    -----------------------git day-01--------------------
+STEP-1 touch app.py.
+STEP-2 git init
+STEP-3 git config --globel.user <------>
+STEP-4 git config --globel.email <-------->
+STEP-5 git add app.py
+STEP-6 git status 
+STEP-7 git commit -m "app.py"
+STEP-8 git push app.py(just try )
